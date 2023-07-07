@@ -1,7 +1,40 @@
-- **Hi, I’m *Baguette5***
+
+<h1 align="Center">  
+  <img src="https://cdn3.emoji.gg/emojis/8689-wapple.png" width="64px" height="64px" alt="wapple">
+
+  Hi              
 
 
-<!---
-Baguette5/Baguette5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+About me
+---
+
+
+
+
+
+  <h1 align="Left"> 
+    <img src="https://cdn3.emoji.gg/emojis/3581-obama-ball-spin-fast.gif" width="40px"  
+                      <h1 align="Center"> 
+
+  /l\       ----> Me
+
+
+ / \
+
+
+
+ 
+
+
+
+
+
+
+
+---
+Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baguette5&show_icons=true&&border_color&bg_color=050505&text_color=ffffff&icon_color=5c5959&title_color=ffffff&custom_title=MyStats)
+
