@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baguette5
+- **Hi, I’m `rgb(0, 0, 43)`*Baguette5***
 
 
 <!---
