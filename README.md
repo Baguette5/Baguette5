@@ -4,7 +4,7 @@
 
   Hi  </div>            
 
-  <div>About me
+  About me
     <h1 align="Left"> 
     <img src="https://cdn3.emoji.gg/emojis/3581-obama-ball-spin-fast.gif" width="40px"  
                       <h1 align="Center"> 
@@ -13,5 +13,4 @@
 
 
  / \
-</div>
 
