@@ -24,17 +24,3 @@ About me
  / \
 
 
-
- 
-
-
-
-
-
-
-
----
-Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baguette5&show_icons=true&&border_color&bg_color=050505&text_color=ffffff&icon_color=5c5959&title_color=ffffff&custom_title=MyStats)
-
